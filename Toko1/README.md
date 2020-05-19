@@ -15,3 +15,6 @@ https://olshopweb.github.io/Toko1/css/owl.carousel.css
 Responsive
 https://olshopweb.github.io/Toko1/css/responsive.css
 
+Style
+https://olshopweb.github.io/Toko1/css/style.css
+
